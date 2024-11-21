@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**CK6909/CK6909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Hi, I’m @CK6909
 
 -👀 I’m interested in traveling, coding, sports, and social work
